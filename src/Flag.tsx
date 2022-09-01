@@ -31,8 +31,7 @@ const styles = StyleSheet.create({
     resizeMode: 'contain',
     width: 25,
     height: 19,
-    borderWidth: 1 / PixelRatio.get(),
-    opacity: 0.8,
+    borderWidth: 1 / PixelRatio.get()
   },
 })
 
